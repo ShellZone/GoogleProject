@@ -5,3 +5,9 @@
     margin-top: -50px;
     margin-left: -100px;
   }
+  
+  .centered2 {
+    position: fixed;
+    top: 60%;
+    left: 42%;
+  }
